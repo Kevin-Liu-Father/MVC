@@ -54,6 +54,10 @@ namespace MVC.Controllers
         {
             return View();
         }
-        
+        public void d()
+        {
+            string an = "你是煞笔";
+        }
+
     }
 }
